@@ -1,0 +1,200 @@
+body {
+  margin: 0;
+}
+.BlockHeadA {
+  display: flex;
+  margin-left: 370px;
+  margin-top: 16px;
+}
+.imgHeadFigure {
+  position: absolute;
+  left: 450px;
+  top: 120px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 72px;
+  line-height: 84px;
+
+  color: #ffffff;
+}
+.upHead {
+  z-index: 1;
+  margin-top: 0px;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  display: flex;
+  background: #007765;
+  position: fixed;
+  width: 10000px;
+  margin: 0%;
+}
+
+.upHead a,
+.upHead p {
+  margin: 5px;
+  color: #ffffff;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+}
+.VectorHead {
+  margin-left: 300px;
+}
+.imgHeadim {
+  width: 1465px;
+  height: 400px;
+  margin: 0px;
+}
+
+.theProblemBlock h1 {
+  font-size: 64px;
+  line-height: 75px;
+  text-align: center;
+  color: #007765;
+  margin-right: 100px;
+}
+
+.theProblemBlock {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-style: normal;
+
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  margin-left: 350px;
+  width: 900px;
+}
+
+div#informationTextBlock {
+  position: relative;
+}
+.informationText {
+  text-align: center;
+  width: 900px;
+  position: absolute;
+  top: 80px;
+  left: 300px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-style: italic;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 56px;
+
+  color: #ffffff;
+}
+.imageinformationText {
+  width: 1465px;
+  height: 400px;
+  margin: 0px;
+}
+.IntrodicingPPC h1 {
+  font-size: 64px;
+  line-height: 75px;
+  text-align: center;
+  color: #007765;
+  margin-right: 30px;
+}
+.imgLogoPPC {
+  float: left;
+  margin-right: 40px;
+}
+.IntrodicingPPC {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-style: normal;
+
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  margin-left: 350px;
+  width: 900px;
+}
+.theTeam h1 {
+  margin-top: 50px;
+  font-size: 64px;
+  line-height: 75px;
+  text-align: center;
+  color: #007765;
+  margin-left: 70px;
+}
+
+.theTeam {
+  position: absolute;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-style: normal;
+  background-color: rgb(242, 239, 239);
+  width: 1465px;
+  height: 800px;
+}
+.theTeamImg {
+  margin-left: 300px;
+  margin-right: 200px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+color: #007765;
+}
+.theTeam img {
+  margin: 70px;
+}
+.theTeamText1 {
+  position: absolute;
+  left:350px;
+  top: 420px;
+}
+.theTeamText2 {
+  position: absolute;
+  left: 670px;
+  top: 420px;
+}
+.theTeamText3 {
+  position: absolute;
+  left: 990px;
+  top: 420px;
+}
+.theTeamText4 {
+  position: absolute;
+  left: 380px;
+  top: 730px;
+}
+.theTeamText5 {
+  position: absolute;
+  left: 700px;
+  top: 730px;
+}
+.theTeamText6 {
+  position: absolute;
+  left: 990px;
+  top: 730px;
+}
+.podvalSite{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+  Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  position: relative;
+width: 1465px;
+height: 200px;
+background-color: #333333;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+color: #FFFFFF;
+position:relative;
+bottom: 20px;
+}
+.podvalSite p{
+  text-align: center;
+  padding-top: 80px;
+  padding-left: 480px;
+  width: 500px;
+}
